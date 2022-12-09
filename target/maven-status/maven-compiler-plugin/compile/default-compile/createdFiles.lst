@@ -1,0 +1,3 @@
+com/redhat/springbootdmnkafkasample/controller/KafkaController.class
+com/redhat/springbootdmnkafkasample/producer/TopicProducer.class
+com/redhat/springbootdmnkafkasample/SpringbootDmnKafkaSampleProducer.class

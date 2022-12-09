@@ -1,0 +1,3 @@
+/mnt/c/shared/redhat/kafka-producer-sample/src/main/java/com/redhat/springbootdmnkafkasample/SpringbootDmnKafkaSampleProducer.java
+/mnt/c/shared/redhat/kafka-producer-sample/src/main/java/com/redhat/springbootdmnkafkasample/producer/TopicProducer.java
+/mnt/c/shared/redhat/kafka-producer-sample/src/main/java/com/redhat/springbootdmnkafkasample/controller/KafkaController.java
